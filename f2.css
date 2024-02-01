@@ -1,0 +1,40 @@
+body{
+    background-image: url(zomato.jpg);
+    background-size: 1530px 600px;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-color: rgb(203, 32, 45);
+
+}
+
+.top{
+ color: white;
+    font-size: large;
+    font-weight: 300;
+    font-size: 1rem;
+    padding-left: 1000px;
+    font-size: 1.5rem;
+}
+
+.mid{
+    color: white;
+    padding-top: 200px;
+    font-size:1.6rem ;
+    font-family:serif;
+}
+#p1{
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.foot{
+    padding-top: ;
+    color: black;
+    font-size: 1.2rem;
+    padding: 160px;
+}
+
+i{
+    color: white;
+}
